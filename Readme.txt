@@ -7,3 +7,9 @@
 -SignCreate
 -SignNotConfirm
 -acc.hello.txt (optional)
+
+This program is a Log in and registration system
+slso includes
+-Character limit when making username
+-Limited guesses when entering password
+-Looping when entering wrong username or password
