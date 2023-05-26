@@ -1,5 +1,5 @@
 /*
-@main.cpp is the main file
+@ main.cpp is the main file
 @Download the header first (head.h)
 @After that download:
 -SignCharLimit
