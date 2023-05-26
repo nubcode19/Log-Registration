@@ -8,8 +8,10 @@
 -SignNotConfirm
 -acc.hello.txt (optional)
 
+This program is to practice and get used to using iterations with added fstream library.
+
 This program is a Log in and registration system
-slso includes
+that also includes:
 -Character limit when making username
 -Limited guesses when entering password
 -Looping when entering wrong username or password
