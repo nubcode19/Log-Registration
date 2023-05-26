@@ -15,3 +15,4 @@ that also includes:
 -Character limit when making username
 -Limited guesses when entering password
 -Looping when entering wrong username or password
+
